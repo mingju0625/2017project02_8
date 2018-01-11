@@ -20,3 +20,4 @@
 ### 參考連結：
 http://blog.castman.net/%E6%95%99%E5%AD%B8/2016/12/19/python-data-science-tutorial-1.html
 https://gist.github.com/jwlin/b1cd5963be76ad5d7a13eed4ad7d8675
+#Google searches and stock returnsLaurens Bijl, Glenn Kringhaug, Peter Molnár ⁎, Eirik Sandvik
